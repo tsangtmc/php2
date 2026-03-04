@@ -1,5 +1,5 @@
 # Define a variable for the URL to make it reusable
-URL = http://ec2-34-212-60-44.us-west-2.compute.amazonaws.com/log.php
+URL = http://ec2-34-212-60-44.us-west-2.compute.amazonaws.com/co/git203/readme.md
 
 # Define a variable for the output file
 OUTPUT_FILE = index.html
